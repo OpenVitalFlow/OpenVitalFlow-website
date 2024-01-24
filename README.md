@@ -1,2 +1,2 @@
 # OpenVitalFlow-website
-the official organisations website
+the official organization website
